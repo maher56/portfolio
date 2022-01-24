@@ -1,0 +1,82 @@
+{
+    "exp" : [
+        {
+            "name": "HTML",
+            "percent": "95%"
+        },
+        {
+            "name": "CSS",
+            "percent": "90%"
+        },
+        {
+            "name": "JavaScript",
+            "percent": "80%"
+        },
+        {
+            "name": "BootStrap",
+            "percent": "80%"
+        },
+        {
+            "name": "Sass",
+            "percent": "90%"
+        },
+        {
+            "name": "PugJS",
+            "percent": "70%"
+        },
+        {
+            "name": "React",
+            "percent": "65%"
+        }
+    ],
+    "projects": [
+        {
+            "img": "https://k.top4top.io/p_22133i6p21.jpg",
+            "name": "typing journey",
+            "github": "https://github.com/maher56/typing-journey",
+            "real": "https://maher56.github.io/typing-journey/"
+        },
+        {
+            "img": "https://f.top4top.io/p_2213p2ob11.jpg",
+            "name": "Movies Website",
+            "github": "https://github.com/maher56/moviesWebsite",
+            "real": "https://maher56.github.io/moviesWebsite/"
+        },
+        {
+            "img": "https://d.top4top.io/p_2213daswm1.jpg",
+            "name": "restaurant Website",
+            "github": "https://github.com/maher56/restaurantWebsite",
+            "real": "https://maher56.github.io/restaurantWebsite/"
+        },
+        {
+            "img": "https://g.top4top.io/p_2213yboei1.jpg",
+            "name": "gym Website",
+            "github": "https://github.com/maher56/gymWebsite",
+            "real": "https://maher56.github.io/gymWebsite/"
+        },
+        {
+            "img": "https://g.top4top.io/p_2213f3jlg1.jpg",
+            "name": "memory Game",
+            "github": "https://github.com/maher56/memoryGame",
+            "real": "https://maher56.github.io/memoryGame/"
+        },
+        {
+            "img": "https://k.top4top.io/p_2213sw0h11.jpg",
+            "name": "snake Game",
+            "github": "https://github.com/maher56/snakeGame",
+            "real": "https://maher56.github.io/snakeGame/"
+        },
+        {
+            "img": "https://j.top4top.io/p_2213dzhx71.jpg",
+            "name": "toyStore Website",
+            "github": "https://github.com/maher56/toyStoreWebsite",
+            "real": "https://maher56.github.io/toyStoreWebsite/"
+        },
+        {
+            "img": "https://i.top4top.io/p_2213zs9bz1.jpg",
+            "name": "Weather App",
+            "github": "https://github.com/maher56/typing-journey",
+            "real": "https://maher56.github.io/typing-journey/"
+        }
+    ]
+}
